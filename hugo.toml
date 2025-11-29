@@ -1,0 +1,4 @@
+baseURL = 'https://www.pranabamatya.com.np//'
+languageCode = 'en-us'
+title = 'pranab'
+theme = 'ananke'
